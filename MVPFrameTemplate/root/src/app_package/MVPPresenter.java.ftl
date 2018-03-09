@@ -7,6 +7,10 @@ import javax.inject.Inject;
 
 import ${contractPackageName}.${pageName}Contract;
 
+/**
+ * @author ${USER}
+ * @date ${DATE}.
+ */
 @ActivityScope
 public class ${pageName}Presenter implements ${pageName}Contract.Presenter{
     private RepositoryManager mRepositoryManager;

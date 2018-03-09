@@ -9,6 +9,10 @@ import ${packageName}.R;
 import ${contractPackageName}.${pageName}Contract;
 import ${presenterPackageName}.${pageName}Presenter;
 
+/**
+ * @author ${USER}
+ * @date ${DATE}.
+ */
 public class ${pageName}Fragment extends DaggerFragment implements ${pageName}Contract.View{
 
     @Inject

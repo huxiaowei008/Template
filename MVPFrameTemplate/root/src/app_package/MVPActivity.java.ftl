@@ -9,6 +9,10 @@ import ${packageName}.R;
 import ${contractPackageName}.${pageName}Contract;
 import ${presenterPackageName}.${pageName}Presenter;
 
+/**
+ * @author ${USER}
+ * @date ${DATE}.
+ */
 public class ${pageName}Activity extends DaggerActivity implements ${pageName}Contract.View {
 
     @Inject
