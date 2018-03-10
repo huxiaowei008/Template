@@ -7,10 +7,6 @@ import dagger.Module;
 import ${contractPackageName}.${pageName}Contract;
 import ${presenterPackageName}.${pageName}Presenter;
 
-/**
- * @author ${USER}
- * @date ${DATE}.
- */
 @Module
 public abstract class ${pageName}Module {
 
